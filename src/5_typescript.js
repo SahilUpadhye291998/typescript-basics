@@ -20,3 +20,18 @@ let sample = {
     name: "Sahil"
 };
 displayValues(sample);
+/**
+ * union : you can do either or functinality for the data type
+ */
+let person = {
+    desination: "head",
+};
+console.log(person);
+/**
+ * intersection
+ */
+let employee = {
+    name: "sahil",
+    desination: "head"
+};
+console.log(employee);

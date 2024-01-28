@@ -29,3 +29,29 @@ let sample : sampleObject = {
 }
 
 displayValues(sample);
+
+type simplePerson = {
+    name: string
+}
+
+type simpleEmployee = {
+    desination: string
+}
+
+/**
+ * union : you can do either or functinality for the data type
+ */
+let person: simpleEmployee | simplePerson = {
+    desination: "head",
+}
+
+console.log(person);
+
+/**
+ * intersection
+ */
+let employee: simpleEmployee & simplePerson = {
+    name: "sahil",
+    desination: "head"
+}
+console.log(employee);

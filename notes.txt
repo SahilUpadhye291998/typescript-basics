@@ -1,7 +1,15 @@
 things we will cover today:
-[] asyncronous programming
-[] async await
-[] handling the API for the application
+[X] asyncronous programming
+[X] async await
+[X] handling the API for the application
+
+------------------------------------------
+
+[] we will do utility type at the end of the sessions
+[] We will do advance type at the end   
+    [] Conditional type
+    [] Mapped type
+    [] Resursive type
 
 We will do decoration for session 
 
