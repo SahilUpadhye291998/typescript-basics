@@ -1,0 +1,13 @@
+"use strict";
+let sampleNumber = 12;
+console.log(sampleNumber);
+let sampleString = "Sample string";
+console.log(sampleString);
+let sampleBoolean = false;
+console.log(sampleBoolean);
+let sampleArray = [1, 2, 3, 4, 5];
+console.log(sampleArray);
+let sampleTuple = [1, "Sample"];
+console.log(sampleTuple);
+let sampleAny = "Sample Any";
+console.log(sampleAny);

@@ -1,0 +1,9 @@
+things we will cover today:
+[] asyncronous programming
+[] async await
+[] handling the API for the application
+
+We will do decoration for session 
+
+// "start": "tsc --build tsconfig.json *.ts --outDir src",
+    
